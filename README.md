@@ -1,5 +1,5 @@
 # Linux Volume Mount Automation in AWS
-A Python, Boto3 script that shuts down a selected instace, detaches the instance, generates a snapshot volume and attaches both volumes to a worksatation.
+A Python, Boto3 script that shuts down a selected instace, detaches the instance, generates a snapshot volume and then attaches and mounts both volumes to a worksatation
 
 ---------------------------------------------------------------------------------------------------------------------
 
